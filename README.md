@@ -14,15 +14,17 @@ I'm passionate about building scalable, fault-tolerant systems and love explorin
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**
+
 - Elixir/Phoenix 🔥
 - Swift/iOS 📱
+- Java/Spring 
+- Python/Mojo 🐍  
 - JavaScript/TypeScript
-- Kotlin (Android)
 
 **Databases & Tools:**
+- ETS
 - PostgreSQL
 - Supabase
-- Redis
 - Oracle
 - Docker
 - K8
@@ -30,9 +32,10 @@ I'm passionate about building scalable, fault-tolerant systems and love explorin
 
 ## 🌟 Featured Projects
 
+- 📱 **[iOS native App with Elixir](https://github.com/ivanhoe/elixirconf_chat)** - An iOS realtime chat App using LiveViewNative
 - 🎵 **[Clean Architecture Spotify](https://github.com/ivanhoe/clean-architecture-spotify)** - Spotify-inspired app demonstrating clean architecture principles
-- 📚 **[Elixir Learning Resources](https://github.com/ivanhoe/ElixirBooks)** - Curated collection of Elixir books and resources
 - 📟 **[LCD Display Driver](https://github.com/ivanhoe/lcd_display)** - Elixir library for controlling LCD displays
+- 📚 **[Elixir Learning Resources](https://github.com/ivanhoe/ElixirBooks)** - Curated collection of Elixir books and resources
 
 ## 📍 Location & Contact
 
