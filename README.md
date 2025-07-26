@@ -34,7 +34,6 @@ I'm passionate about building scalable, fault-tolerant systems and love explorin
 
 - 📱 **[iOS native App with Elixir](https://github.com/ivanhoe/elixirconf_chat)** - An iOS realtime chat App using LiveViewNative
 - 🎵 **[Clean Architecture Spotify](https://github.com/ivanhoe/clean-architecture-spotify)** - Spotify-inspired app demonstrating clean architecture principles
-- 📟 **[LCD Display Driver](https://github.com/ivanhoe/lcd_display)** - Elixir library for controlling LCD displays
 - 📚 **[Elixir Learning Resources](https://github.com/ivanhoe/ElixirBooks)** - Curated collection of Elixir books and resources
 
 ## 📍 Location & Contact
